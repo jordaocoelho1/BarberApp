@@ -2,15 +2,18 @@
   "user": [
     {
       "id": 1,
-      "name": "Jordão"
+      "email": "Jordão",
+      "password": "1234"
     },
     {
       "id": 2,
-      "name": "marcos"
+      "email": "marcos"
+      "password": "12345"
     },
     {
       "id": 3,
-      "name": "Maria"
+      "email": "Maria",
+      "password": "123456"
     }
   ],
   "login": [
