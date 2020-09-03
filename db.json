@@ -1,4 +1,5 @@
-{
+[
+    {
     "name": "Jordão",
     "email":"jordao_coelho@hotmail.com",
     "password": 1234,
@@ -12,4 +13,4 @@
 },
 
 
-}
+]
