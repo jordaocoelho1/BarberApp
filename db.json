@@ -1,7 +1,7 @@
 {
-  "user": [
-    { "name": "Jordão", 
-     "email":"jordao_coelho@hotmail.com", 
-     "password": "1234" },
-  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
 }
