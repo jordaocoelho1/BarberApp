@@ -1,21 +1,36 @@
 {
   "user": [
-    { "id": 1, "name": "Jordão", "email": "jordao_coelho@hotmail.com", "password": 1234 },
-    { "id": 2, "name": "Marcos", "email": "marcos@hotmail.com", "password": 4567 },
-  ],
-  "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "name": "Jordão"
+    },
+    {
+      "id": 2,
+      "name": "marcos"
+    },
+    {
+      "id": 3,
+      "name": "Maria"
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "email": "jordao_coelho@hotmail.com",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "some comment",
+      "body": "marcos@hotmail.com",
+      "postId": 1
+    },
+      {
+      "id": 3,
+      "email": "maria@hotmail.com",
       "postId": 1
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Jordão"
   }
 }
