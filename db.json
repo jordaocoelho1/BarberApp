@@ -16,13 +16,19 @@
       "password": "123456"
     }
   ],
-  "signIn": [
+  "comments": [
     {
       "id": 1,
-      "email": "jordao_coelho@hotmail.com",
-      "password": "1234"
+      "body": "some comment",
+      "postId": 1
     },
-  ], "profile": {
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
     "name": "typicode"
   }
 }
