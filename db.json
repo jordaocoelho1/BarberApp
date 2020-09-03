@@ -1,7 +1,7 @@
 {
   "user": [
-    { "id": 1, "name": "Jordão", "email": "jordao_coelho@hotmail.com", "password": "1234" },
-    { "id": 2, "name": "Marcos", "email": "marcos@hotmail.com", "password":"4567" },
+    { "id": 1, "name": "Jordão", "email": "jordao_coelho@hotmail.com", "password": 1234 },
+    { "id": 2, "name": "Marcos", "email": "marcos@hotmail.com", "password": 4567 },
   ],
   "comments": [
     {
