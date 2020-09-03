@@ -1,6 +1,6 @@
 {
   "user": [
-    { "name": "Jordão", "email":"jordao_coelho@hotmail.com", "password": "1234" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "name": "Jordão", 
+     "email":"jordao_coelho@hotmail.com", 
+     "password": "1234", },
   ],
